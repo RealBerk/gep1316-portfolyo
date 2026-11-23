@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **Bölümüm:**
 * Sosyoloji ve Siyaset Bilimi & Uluslararasi Iliskiler
 # **İlgi alanlarım:** 
@@ -12,4 +13,6 @@
 [# Github Profilim](https://github.com/RealBerk)
 
 [# Online Portfolyom](https://RealBerk.github.io/PersonalPortfolio/)
+
+=======
 
